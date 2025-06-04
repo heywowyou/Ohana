@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <div></div>
+      <div className="flex justify-center py-6 text-sm">Copyright</div>
     </footer>
   );
 }

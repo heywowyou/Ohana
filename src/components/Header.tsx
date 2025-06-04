@@ -10,10 +10,10 @@ export default function Header() {
           </Link>
         </div>
         <div className="flex flex-auto justify-end gap-10">
-          <Link href="/home" className="text-2xl">
+          <Link href="/home" className="flex items-center text-lg font-base">
             Home
           </Link>
-          <Link href="/work" className="text-2xl">
+          <Link href="/work" className="flex items-center text-lg font-base">
             Work
           </Link>
         </div>
